@@ -1,4 +1,4 @@
-const RecintosZoo = require('./RecintosZoo'); 
+const RecintosZoo = require('./src/recintos-zoo.js'); 
 
 describe('Testes para a função analisaRecintos da classe RecintosZoo', () => {
   let zoo;
